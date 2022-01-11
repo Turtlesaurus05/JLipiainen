@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\bin\Debug\netcoreapp3.1\harjoitus1auto.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\harjoitus1auto\harjoitus1auto\obj\Debug\netcoreapp3.1\harjoitus1auto.genruntimeconfig.cache
