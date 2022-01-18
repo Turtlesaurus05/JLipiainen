@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\bin\Debug\netcoreapp3.1\Tehtava5laskin.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava5laskin\Tehtava5laskin\obj\Debug\netcoreapp3.1\Tehtava5laskin.genruntimeconfig.cache
