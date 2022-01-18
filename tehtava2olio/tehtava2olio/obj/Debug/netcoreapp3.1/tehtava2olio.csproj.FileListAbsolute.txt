@@ -1,0 +1,13 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\bin\Debug\netcoreapp3.1\tehtava2olio.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava2olio\tehtava2olio\obj\Debug\netcoreapp3.1\tehtava2olio.genruntimeconfig.cache
