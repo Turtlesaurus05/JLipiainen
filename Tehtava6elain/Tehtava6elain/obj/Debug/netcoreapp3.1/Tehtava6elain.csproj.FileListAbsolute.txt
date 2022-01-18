@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\bin\Debug\netcoreapp3.1\Tehtava6elain.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava6elain\Tehtava6elain\obj\Debug\netcoreapp3.1\Tehtava6elain.genruntimeconfig.cache
