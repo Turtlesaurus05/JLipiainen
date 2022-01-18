@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\bin\Debug\netcoreapp3.1\tehtava4albumi.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava4albumi\tehtava4albumi\obj\Debug\netcoreapp3.1\tehtava4albumi.genruntimeconfig.cache
