@@ -9,7 +9,7 @@ namespace Tehtava6elain
         //Eläin yliluokka
         public string Nimi { get; set; }
 
-        private static int instanssit = 0;
+        private static int instanssit = 0  ;
 
         public Elain()
         {

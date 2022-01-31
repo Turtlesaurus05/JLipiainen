@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\bin\Debug\netcoreapp3.1\tehtava8tyontekijapomo.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava8tyontekijapomo\tehtava8tyontekijapomo\obj\Debug\netcoreapp3.1\tehtava8tyontekijapomo.genruntimeconfig.cache
