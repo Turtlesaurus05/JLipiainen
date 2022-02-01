@@ -1,0 +1,15 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\tehtava10elaimetja.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\tehtava10elaimetja.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\tehtava10elaimetja.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\tehtava10elaimetja.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\ref\tehtava10elaimetja.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\bin\Debug\net6.0\tehtava10elaimetja.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\ref\tehtava10elaimetja.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava10elaimetja\tehtava10elaimetja\obj\Debug\net6.0\tehtava10elaimetja.genruntimeconfig.cache
