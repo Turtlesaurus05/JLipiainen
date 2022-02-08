@@ -1,0 +1,15 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\Tehtava12korttipakka.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\Tehtava12korttipakka.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\Tehtava12korttipakka.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\Tehtava12korttipakka.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\ref\Tehtava12korttipakka.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\bin\Debug\net6.0\Tehtava12korttipakka.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\ref\Tehtava12korttipakka.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Tehtava12korttipakka\Tehtava12korttipakka\obj\Debug\net6.0\Tehtava12korttipakka.genruntimeconfig.cache

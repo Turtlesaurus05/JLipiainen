@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\bin\Debug\netcoreapp3.1\Zzzzzzz.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\Zzzzzzz\Zzzzzzz\obj\Debug\netcoreapp3.1\Zzzzzzz.genruntimeconfig.cache

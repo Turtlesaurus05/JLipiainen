@@ -1,0 +1,15 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\korttipelisekoita.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\korttipelisekoita.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\korttipelisekoita.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\korttipelisekoita.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\ref\korttipelisekoita.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\bin\Debug\net6.0\korttipelisekoita.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\ref\korttipelisekoita.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipelisekoita\korttipelisekoita\obj\Debug\net6.0\korttipelisekoita.genruntimeconfig.cache

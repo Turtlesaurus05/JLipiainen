@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joonatan.lipiainen\\Source\\Repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj": {}
+    "C:\\Users\\joonatan.lipiainen\\source\\repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joonatan.lipiainen\\Source\\Repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj": {
+    "C:\\Users\\joonatan.lipiainen\\source\\repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joonatan.lipiainen\\Source\\Repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj",
+        "projectUniqueName": "C:\\Users\\joonatan.lipiainen\\source\\repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj",
         "projectName": "Tehtava6elain",
-        "projectPath": "C:\\Users\\joonatan.lipiainen\\Source\\Repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj",
+        "projectPath": "C:\\Users\\joonatan.lipiainen\\source\\repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\Tehtava6elain.csproj",
         "packagesPath": "C:\\Users\\joonatan.lipiainen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joonatan.lipiainen\\Source\\Repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\obj\\",
+        "outputPath": "C:\\Users\\joonatan.lipiainen\\source\\repos\\Turtlesaurus05\\JLipiainen\\Tehtava6elain\\Tehtava6elain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

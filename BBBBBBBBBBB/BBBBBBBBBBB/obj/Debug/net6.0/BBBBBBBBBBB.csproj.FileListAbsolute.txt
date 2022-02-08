@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\BBBBBBBBBBB.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\BBBBBBBBBBB.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\BBBBBBBBBBB.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\BBBBBBBBBBB.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\ref\BBBBBBBBBBB.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\bin\Debug\net6.0\BBBBBBBBBBB.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\ref\BBBBBBBBBBB.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\BBBBBBBBBBB\BBBBBBBBBBB\obj\Debug\net6.0\BBBBBBBBBBB.genruntimeconfig.cache

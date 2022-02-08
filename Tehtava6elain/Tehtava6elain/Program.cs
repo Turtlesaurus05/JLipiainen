@@ -28,6 +28,8 @@ namespace Tehtava6elain
             Elain.KuinkaMonta();
             Kissa.KuinkaMonta();
             Elain.KuinkaMonta();
+
+            Koira.Tulosta();
         }
     }
 }

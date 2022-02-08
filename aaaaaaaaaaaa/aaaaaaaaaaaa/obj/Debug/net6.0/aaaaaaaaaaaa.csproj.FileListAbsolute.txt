@@ -1,0 +1,15 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\aaaaaaaaaaaa.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\aaaaaaaaaaaa.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\aaaaaaaaaaaa.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\aaaaaaaaaaaa.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\ref\aaaaaaaaaaaa.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\bin\Debug\net6.0\aaaaaaaaaaaa.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\ref\aaaaaaaaaaaa.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\aaaaaaaaaaaa\aaaaaaaaaaaa\obj\Debug\net6.0\aaaaaaaaaaaa.genruntimeconfig.cache

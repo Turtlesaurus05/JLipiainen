@@ -25,5 +25,16 @@ namespace Tehtava6elain
         {
             Console.WriteLine("Eläin Ääntelee");
         }
+
+        public void Tulosta()
+        {
+           int i = instanssit;
+            for ( i = 0; i > 1; i++)
+            {
+                Console.WriteLine(i);
+
+            }
+
+        }
     }
 }
