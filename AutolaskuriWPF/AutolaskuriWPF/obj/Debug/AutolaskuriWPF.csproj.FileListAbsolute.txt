@@ -1,0 +1,16 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\bin\Debug\AutolaskuriWPF.exe.config
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\bin\Debug\AutolaskuriWPF.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\bin\Debug\AutolaskuriWPF.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\MainWindow.g.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\App.g.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF_MarkupCompile.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF_MarkupCompile.lref
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\MainWindow.baml
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.g.resources
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.Properties.Resources.resources
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.csproj.GenerateResource.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\AutolaskuriWPF\AutolaskuriWPF\obj\Debug\AutolaskuriWPF.pdb

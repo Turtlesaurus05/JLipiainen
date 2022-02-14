@@ -1,0 +1,14 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.runtimeconfig.dev.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\bin\Debug\netcoreapp3.1\tehtava9radio.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\tehtava9radio\tehtava9radio\obj\Debug\netcoreapp3.1\tehtava9radio.genruntimeconfig.cache

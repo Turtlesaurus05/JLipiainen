@@ -14,27 +14,24 @@ namespace Zzzzzzz
 
             while (true)
             {
-
-            string kirjoitasetus = Console.ReadLine();
+                string kirjoitasetus = Console.ReadLine();
 
                 if (kirjoitasetus.ToUpper() == "K")
                 {
                     pakka.Tulosta();
-
                     Console.WriteLine("Pakka sekoitettiin uudestaan. Sekoitetaanko uudestaan? K = Kyllä. E = Ei.  tai jos haluta lopettaa kirjoita LOPETA ");
-
                 }
-                else if(kirjoitasetus.ToUpper() == "LOPETA")
-                    {
+                else if (kirjoitasetus.ToUpper() == "LOPETA")
+                {
                     break;
                 }
                 else
                 {
                     Console.WriteLine("Pakkaa ei sekoitettu uudestaan. sekoittaatanko silti uudestaan?  K = Kyllä. E = Ei. tai jos haluat lopettaa kirjoita LOPETA ");
                 }
-            }    
+            }
         }
-    
+
     }
 }
 
