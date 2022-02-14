@@ -9,8 +9,8 @@
     <Grid>
         <Button x:Name="BTNHenkiloauto" Content="Henkiloauto" HorizontalAlignment="Left" Margin="172,93,0,0" VerticalAlignment="Top" Height="45" Width="154" Click="BTNHenkiloauto_Click"/>
         <Button x:Name="BTNKuormaauto" Content="Kuorma-Auto" HorizontalAlignment="Left" Margin="400,94,0,0" VerticalAlignment="Top" Height="44" Width="154" Click="BTNKuormaauto_Click"/>
-        <TextBlock x:Name="TBHenkiloauto" TextWrapping="Wrap" Margin="214,186,0,216" HorizontalAlignment="Left"/>
-        <TextBlock x:Name="TBKuormaauto" TextWrapping="Wrap" Margin="474,189,0,213" HorizontalAlignment="Left"/>
+        <TextBlock x:Name="TBHenkiloauto" TextWrapping="Wrap" Margin="172,143,0,174" HorizontalAlignment="Left" Width="136"/>
+        <TextBlock x:Name="TBKuormaauto" TextWrapping="Wrap" Margin="477,159,0,196" HorizontalAlignment="Left" Width="206"/>
 
     </Grid>
 </Window>

@@ -1,0 +1,16 @@
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\bin\Debug\WPFLASKIN.exe.config
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\bin\Debug\WPFLASKIN.exe
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\bin\Debug\WPFLASKIN.pdb
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\MainWindow.g.cs
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\App.g.cs
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN_MarkupCompile.cache
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN_MarkupCompile.lref
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\MainWindow.baml
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.g.resources
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.Properties.Resources.resources
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.csproj.GenerateResource.cache
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.exe
+C:\Users\joonatan.lipiainen\Source\Repos\Turtlesaurus05\JLipiainen\WPFLASKIN\WPFLASKIN\obj\Debug\WPFLASKIN.pdb

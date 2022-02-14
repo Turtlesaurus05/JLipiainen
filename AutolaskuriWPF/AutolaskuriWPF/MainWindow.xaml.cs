@@ -28,7 +28,7 @@ namespace AutolaskuriWPF
         {
             InitializeComponent();
 
-            TBHenkiloauto.Text = HenkilöAutot.ToString();   
+            TBHenkiloauto.Text = HenkilöAutot.ToString();
             TBKuormaauto.Text = KuormaAutot.ToString();
         }
 
@@ -44,5 +44,5 @@ namespace AutolaskuriWPF
             TBKuormaauto.Text = KuormaAutot.ToString();
         }
     }
-    }
+}
 
