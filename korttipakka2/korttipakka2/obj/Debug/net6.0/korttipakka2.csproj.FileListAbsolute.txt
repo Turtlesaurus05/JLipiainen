@@ -1,5 +1,0 @@
-C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipakka2\korttipakka2\obj\Debug\net6.0\korttipakka2.csproj.AssemblyReference.cache
-C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipakka2\korttipakka2\obj\Debug\net6.0\korttipakka2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipakka2\korttipakka2\obj\Debug\net6.0\korttipakka2.AssemblyInfoInputs.cache
-C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipakka2\korttipakka2\obj\Debug\net6.0\korttipakka2.AssemblyInfo.cs
-C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\korttipakka2\korttipakka2\obj\Debug\net6.0\korttipakka2.csproj.CoreCompileInputs.cache
