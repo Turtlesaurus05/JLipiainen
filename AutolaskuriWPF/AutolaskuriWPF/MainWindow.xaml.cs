@@ -42,6 +42,7 @@ namespace AutolaskuriWPF
         {
             KuormaAutot++;
             TBKuormaauto.Text = KuormaAutot.ToString();
+
         }
     }
 }

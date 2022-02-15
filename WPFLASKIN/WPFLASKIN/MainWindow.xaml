@@ -10,10 +10,26 @@
         <ImageBrush ImageSource="/IMG_9101.jpg"/>
     </Window.Background>
     <Grid Margin="0,10,0,199">
-        <Button x:Name="BTNKerto" Content="Kerto" HorizontalAlignment="Left" Margin="146,182,0,0" VerticalAlignment="Top" Height="58" Width="115" Click="BTNKerto_Click"/>
-        <Button x:Name="BTNJako" Content="Jako" HorizontalAlignment="Left" Margin="285,183,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNJako_Click"/>
-        <Button x:Name="BTNMinus" Content="Miinus" HorizontalAlignment="Left" Margin="588,182,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNMinus_Click"/>
-        <Button x:Name="BTNPlus" Content="Plus" HorizontalAlignment="Left" Margin="437,182,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNPlus_Click"/>
+        <Button x:Name="BTNKerto" Content="Kerto" HorizontalAlignment="Left" Margin="146,182,0,0" VerticalAlignment="Top" Height="58" Width="115" Click="BTNKerto_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/IMG_9101.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BTNJako" Content="Jako" HorizontalAlignment="Left" Margin="285,183,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNJako_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/IMG_9101.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BTNMinus" Content="Miinus" HorizontalAlignment="Left" Margin="588,182,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNMinus_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/IMG_9101.jpg"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="BTNPlus" Content="Plus" HorizontalAlignment="Left" Margin="437,182,0,0" VerticalAlignment="Top" Height="57" Width="115" Click="BTNPlus_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/IMG_9101.jpg"/>
+            </Button.Background>
+        </Button>
         <TextBlock x:Name="Tulos" HorizontalAlignment="Left" Margin="400,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370" Height="142" FontSize="72"/>
         <TextBox x:Name="Laskuri2" HorizontalAlignment="Left" Margin="146,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="26" Opacity="0.5" SelectionBrush="{x:Null}"/>
         <TextBox x:Name="Laskuri" HorizontalAlignment="Left" Margin="297,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="26" Opacity="0.5" SelectionBrush="{x:Null}"/>
