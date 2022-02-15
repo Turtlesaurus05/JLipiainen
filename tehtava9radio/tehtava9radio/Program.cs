@@ -9,7 +9,7 @@ namespace tehtava9radio
             Radio pakka = new Radio("Nimi ", false, 0, 88.0M);
 
 
-            pakka.Tulostadata();
+            pakka.TulostaData();
 
 
             Console.WriteLine("Laitetaanko radio päälle? (Päälle tai Pois.) ");
@@ -21,20 +21,20 @@ namespace tehtava9radio
 
                 if (luettoarvo.ToUpper() == "PÄÄLLE")
                 {
-                    pakka.Radiotila();
+                    pakka.AsetaKerros();
 
 
                 }
                 else if (luettoarvo.ToUpper() == "POIS")
                 {
-                    pakka.Radiotila();
+                    pakka.AsetaKerros();
 
                 }
 
                 if (true)
                 {
                     Console.WriteLine("Valitse radio kanava 88.0M ja 107.9M väliltä. " + luettoarvo);
-                    pakka.RTaajuus();
+                    pakka.AsetaKerros();
 
                 }
 

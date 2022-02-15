@@ -1,129 +1,152 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace tehtava9radio
+class Radio
 {
-    internal class Radio
+    public Radio(string _nimi, bool _on, int _ääni, decimal _taajuus) //Määritellään konstruktori Radio oliolle
     {
-        public Radio(string _nimi, bool _on, int _ääni, decimal _taajuus)
-        {
-            Nimi = _nimi;
-            Päällä = _on;
-            Äänenvoimakkuus = _ääni;
-            taajuus = _taajuus;
-        }
-        public string Nimi;
-        bool Päällä;
-        public decimal uusitaajus;
-        public int uusivoimakkuus;
-        private readonly int ÄänenvoimMax = 9;
-        private readonly int ÄänenvoimMin = 0;
-        private readonly decimal MaxTaajuus = 107.9M;
-        private readonly decimal MinTaajuus = 88.0M;
-
-        private decimal Taajuus { get; set; }
-        private int Äänenvoimakkuus { get; set; }
-
-        public decimal taajuus
-        {
-            get { return Taajuus; }
-            set
-            {
-                
-                if (value > MaxTaajuus)
-                {
-                    value = MaxTaajuus;
-                }
-
-                else if (value < MinTaajuus)
-                {
-                    value = MinTaajuus;
-                }
-                taajuus = value;
-            }
-
-        }
-        public int äänenvoimakkuus
-        {
-            get { return Äänenvoimakkuus; }
-            set
-            {
-                if (value > ÄänenvoimMax)
-                {
-                    value = ÄänenvoimMax;
-                }
-
-                else if (value < ÄänenvoimMin)
-                {
-                    value = ÄänenvoimMin;
-                }
-                Äänenvoimakkuus = value;
-            }
-        }
-
-        public void Radiotila()
-        {
-            if (Päällä == true)
-            {
-                Päällä = false;
-                Console.WriteLine("Radio on nyt pois päältä. ");
-            }
-            else if (Päällä == false)
-            {
-                Päällä = true;
-                Console.WriteLine("Radio on nyt päällä ");
-            }
-        }
-        public void RTaajuus()
-        {
-            string luettuarvo = Console.ReadLine();
-            bool result = decimal.TryParse(luettuarvo, out uusitaajus);
-
-            if (result)
-            {
-                uusitaajus = Taajuus;
-
-            }
-            else
-            {
-                Console.WriteLine("VIRHE! Annettu radio kanava oli virheellinen. ");
-            }
-
-
-        }
-        public void RVoimakkuus()
-        {
-            string luettuarvo = Console.ReadLine();
-            bool result = int.TryParse(luettuarvo, out uusivoimakkuus);
-
-            if (result)
-            {
-                uusivoimakkuus = Äänenvoimakkuus;
-
-            }
-            else
-            {
-                Console.WriteLine("VIRHE! Volume taso oli virheellinen. ");
-            }
-
-        }
-
-        public void Tulostadata()
-        {
-            if (Päällä == true)
-
-            {
-                Console.WriteLine("Radio on päällä ");
-            }
-            else if (Päällä == false)
-            {
-                Console.WriteLine("Radio ei ole päällä ");
-            }
-            Console.WriteLine("Radion taajus on {0}", Taajuus);
-            Console.WriteLine("Radion äänenvoimakkuus on {0}");
-        }
-
-
+        Nimi = _nimi;
+        Päällä = _on;
+        Äänenvoimakkuus = _ääni;
+        taajuus = _taajuus;
     }
+
+
+
+    public string Nimi;
+    bool Päällä;
+    private readonly int ÄänenVoimaMax = 9;
+    private readonly int ÄänenVoimaMin = 0;
+    private readonly decimal MaxTaajuus = 107.9M; //käytetään desimaali muuttujia näissä missä tarvitaan, koska double on ihan paska ja tyhmä muuttuja
+    private readonly decimal MinTaajuus = 88.0M;
+    private decimal taajuus { get; set; }
+    private int äänenvoimakkuus { get; set; }
+    public decimal Taajuus //Määritetään public Taajuus muuttujalle get set sisällöt, josta pääohjelma voi hakea private taajuus muuttujan arvon
+    {
+        get { return taajuus; } //Pääohjelma saa tätä käyttämällä private taajuus arvon, ja voi myös asettaa sen
+        set
+        {
+            if (value > MaxTaajuus) //Jos taajuus arvo asetetaan yli MaxTaajuus muuttujassa määritellyn arvon, niin if lauseen sisältö asettaa taajuus arvon takaisin MaxTaajuus arvoon
+            {
+                value = MaxTaajuus;
+            }
+            else if (value < MinTaajuus) // Jos taajuus arvo asetetaan alle MinTaajuus muuttujassa määritellyn arvon, niin if lauseen sisältö asettaa taajuus arvon takaisin MinTaajuus arvoon
+            {
+                value = MinTaajuus;
+            }
+            taajuus = value;
+        }
+    }
+
+
+
+    public int Äänenvoimakkuus
+    {
+        get { return äänenvoimakkuus; }
+        set
+        {
+            if (value > ÄänenVoimaMax)
+            {
+                value = ÄänenVoimaMax;
+            }
+            else
+            if (value < ÄänenVoimaMin)
+            {
+                value = ÄänenVoimaMin;
+            }
+            äänenvoimakkuus = value;
+        }
+    }
+    public void AsetaKerros()
+    {
+        Taajuus = Convert.ToInt32(Console.ReadLine()); //Tämä vaihtaa annetun arvon Console.Readline() komennosta Int muotoon jotta loput koodista pystytään suorittamaan
+        Console.WriteLine("Radion taajuus on : " + Taajuus.ToString());
+    }
+
+
+
+    public void TulostaData()
+    {
+        Console.WriteLine("Radio: ");
+        Console.WriteLine("-- Nimi: " + Nimi);
+        if (Päällä == true)
+        {
+            Console.WriteLine("-- Radion tila Päällä ");
+        }
+        else
+        {
+            Console.WriteLine("-- Radio tila: Pois Päältä ");
+        }
+        Console.WriteLine("-- Taajuus: " + Taajuus);
+        Console.WriteLine("-- Äänenvoimakkuus: " + Äänenvoimakkuus);
+        Console.WriteLine("Käynnistä/Sammuta radio, Paina k");
+        Console.WriteLine("Nosta taajuutta paina n, laske taajuutta paina l");
+        Console.WriteLine("Nosta äänenvoimakkuutta paina w, laske äänenvoimakkuutta paina s");
+        Console.Write("Poistu radion luota, anna p: ");
+        Console.WriteLine();
+    }
+
+
+
+    public void ONJAOFF() //Metodi radion päälle ja pois päältä laittamiseen
+    {
+        if (Päällä != true)
+        {
+            Päällä = true;
+        }
+        else
+        {
+            Päällä = false;
+        }
+    }
+    public void NostaÄänenVoimakkuutta(int i) //Äänenvoimakkuutta nostava metodi
+    {
+        if (Päällä != false) //Metodi ei suorita if lausekkeen sisältöä jos radio ei ole päällä
+        {
+            Äänenvoimakkuus = Äänenvoimakkuus + i;
+        }
+        else //Tämä else lauseen sisältö toteutuu jos radio ei ole päällä
+        {
+            Console.WriteLine("Radio ei ole päällä! Tollo!");
+            Console.Beep();
+        }
+    }
+    public void LaskeÄänenVoimakkuutta(int i)
+    {
+        if (Päällä != false)
+        {
+            Äänenvoimakkuus = Äänenvoimakkuus - i;
+        }
+        else
+        {
+            Console.WriteLine("Radio ei ole päällä! Tollo!");
+            Console.Beep();
+        }
+    }
+    public void NostaTaajuutta(decimal i)
+    {
+        if (Päällä != false)
+        {
+            Taajuus = Taajuus + i;
+        }
+        else
+        {
+            Console.WriteLine("Radio ei ole päällä! Tollo!");
+            Console.Beep();
+        }
+    }
+    public void LaskeTaajuutta(decimal i)
+    {
+        if (Päällä != false)
+        {
+            Taajuus = Taajuus - i;
+        }
+        else
+        {
+            Console.WriteLine("Radio ei ole päällä! Tollo!");
+            Console.Beep();
+        }
+    }
+
+
+
 }
