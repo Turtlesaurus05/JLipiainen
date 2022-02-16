@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPFOstoslista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFOstoslista"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF0055FF"/>
+                <GradientStop Color="#FF004AFF" Offset="1"/>
+                <GradientStop Color="#FEFFFFFF" Offset="0.454"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Button Content="Maksa" Margin="572,328,40,33" Click="Del_Click"/>
+        <StackPanel>
+            <CheckBox Content="Maito" Checked="Ostos1"/>
+            <CheckBox Content="Leipä" Checked="Ostos2"/>
+            <CheckBox Content="Karkki" Checked="Ostos3"/>
+            <CheckBox Content="Kahvi" Checked="Ostos4"/>
+        </StackPanel>
+    </Grid>
+</Window>

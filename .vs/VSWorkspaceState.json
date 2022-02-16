@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\TaloWPF",
+    "\\TaloWPF\\TaloWPF",
     "\\Tehtava5laskin",
     "\\Tehtava5laskin\\Tehtava5laskin",
     "\\WPFLASKIN"
   ],
-  "SelectedNode": "\\TaloWPF\\TaloWPF.sln",
+  "SelectedNode": "\\TaloWPF\\TaloWPF\\MainWindow.xaml.cs",
   "PreviewInSolutionExplorer": false
 }

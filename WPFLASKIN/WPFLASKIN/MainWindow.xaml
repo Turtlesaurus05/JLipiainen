@@ -33,6 +33,7 @@
         <TextBlock x:Name="Tulos" HorizontalAlignment="Left" Margin="400,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370" Height="142" FontSize="72"/>
         <TextBox x:Name="Laskuri2" HorizontalAlignment="Left" Margin="146,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="26" Opacity="0.5" SelectionBrush="{x:Null}"/>
         <TextBox x:Name="Laskuri" HorizontalAlignment="Left" Margin="297,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="26" Opacity="0.5" SelectionBrush="{x:Null}"/>
+        <Button Content="Poista" Margin="380,0,10,144" Click="Del_Click"/>
 
     </Grid>
 </Window>

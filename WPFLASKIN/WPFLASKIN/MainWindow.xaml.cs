@@ -53,7 +53,13 @@ namespace WPFLASKIN
             float b = Convert.ToSingle(Laskuri2.Text);
             Tulos.Text = Convert.ToString(Laskin.Erotus(a, b));
         }
+
+        private void Del_Click(object sender, RoutedEventArgs e)
+        {
+            Tulos.Text = "";
+        }
     }
+
 }
 
 

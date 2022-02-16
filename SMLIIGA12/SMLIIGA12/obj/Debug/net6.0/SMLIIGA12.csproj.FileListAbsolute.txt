@@ -1,0 +1,15 @@
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\SMLIIGA12.exe
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\SMLIIGA12.deps.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\SMLIIGA12.runtimeconfig.json
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\SMLIIGA12.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\ref\SMLIIGA12.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\bin\Debug\net6.0\SMLIIGA12.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.csproj.AssemblyReference.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.AssemblyInfoInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.AssemblyInfo.cs
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.csproj.CoreCompileInputs.cache
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\ref\SMLIIGA12.dll
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.pdb
+C:\Users\joonatan.lipiainen\source\repos\Turtlesaurus05\JLipiainen\SMLIIGA12\SMLIIGA12\obj\Debug\net6.0\SMLIIGA12.genruntimeconfig.cache

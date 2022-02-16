@@ -1,0 +1,18 @@
+﻿<Window x:Class="ostoslista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ostoslista"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.487,0.453">
+        <CheckBox x:Name="cbHiiri" Content="Hiiri" HorizontalAlignment="Left" Margin="280,150,0,0" VerticalAlignment="Top" Checked="cbHiiri_Checked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="449,81,0,0" TextWrapping="Wrap" Text="Lista" VerticalAlignment="Top" RenderTransformOrigin="1.769,0.431"/>
+        <CheckBox x:Name="cbProsessori" Content="Prosessori" HorizontalAlignment="Left" Margin="280,170,0,0" VerticalAlignment="Top" Checked="cbProsessori_Checked"/>
+        <CheckBox x:Name="cbNäppäimistö" Content="Näppäimistö" HorizontalAlignment="Left" Margin="280,130,0,0" VerticalAlignment="Top" Checked="cbNäppäimistö_Checked"/>
+        <CheckBox x:Name="cbTietokone" Content="Tietokone" HorizontalAlignment="Left" Margin="280,110,0,0" VerticalAlignment="Top" Checked="cbTietokone_Checked"/>
+        <TextBlock x:Name="tbLista" HorizontalAlignment="Left" Margin="426,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.298,-0.626" Height="165" Width="70"/>
+        <Button x:Name="btnOsta" Content="Osta" HorizontalAlignment="Left" Margin="540,247,0,0" VerticalAlignment="Top" Width="70" Click="btnOsta_Click"/>
+    </Grid>
+</Window>
