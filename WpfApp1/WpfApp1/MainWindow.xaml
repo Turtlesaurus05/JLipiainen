@@ -18,18 +18,18 @@
             <RowDefinition Height="147*"/>
         </Grid.RowDefinitions>
         <TextBox x:Name="tbGamename" HorizontalAlignment="Left" Height="23" Margin="110,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <RadioButton x:Name="cbKauhu" Content="Kauhu" HorizontalAlignment="Left" Margin="286,63,0,0" VerticalAlignment="Top" Height="19" Checked="cbShooter_Checked"/>
-        <RadioButton x:Name="cbRomantiikka" Content="Romantiikka" HorizontalAlignment="Left" Margin="286,83,0,0" VerticalAlignment="Top" Height="17" Checked="cbIndie_Checked"/>
-        <TextBox x:Name="tbGames" HorizontalAlignment="Left" Height="144" Margin="451,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Foreground="#FFD42B2B"/>
+        <RadioButton x:Name="cbKauhu" Content="Kauhu" HorizontalAlignment="Left" Margin="286,63,0,0" VerticalAlignment="Top" Height="19" Checked="cbKauhu_Checked"/>
+        <RadioButton x:Name="cbRomantiikka" Content="Romantiikka" HorizontalAlignment="Left" Margin="286,83,0,0" VerticalAlignment="Top" Height="17" Checked="cbRomantiikka_Checked"/>
+        <TextBox x:Name="tbKirjat" HorizontalAlignment="Left" Height="144" Margin="451,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104" Foreground="#FFD42B2B"/>
         <Button x:Name="btnSelect" Content="Enter" HorizontalAlignment="Left" Margin="286,155,0,0" VerticalAlignment="Top" Width="75" Click="btnSelect_Click" Height="25"/>
-        <Button x:Name="btnTotext" Content="To Text File" HorizontalAlignment="Left" Margin="466,179,0,0" VerticalAlignment="Top" Width="75" Click="btnTotext_Click" Grid.RowSpan="2"/>
+        <Button x:Name="btnTotext" Content="Syötä tekstit" HorizontalAlignment="Left" Margin="466,179,0,0" VerticalAlignment="Top" Width="75" Click="btnTotext_Click"/>
         <TextBlock x:Name="tbSuccessful" HorizontalAlignment="Left" Margin="419,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" Grid.Row="1"/>
-        <TextBlock HorizontalAlignment="Left" Margin="110,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Kirjan nimi:" Foreground="#FFFF0404"/>
-        <RadioButton x:Name="cbScifi" Content="Fantasia" HorizontalAlignment="Left" Margin="286,105,0,0" VerticalAlignment="Top" Checked="cbRPG_Checked"/>
-        <RadioButton x:Name="cbFantasia" Content="Scifi" HorizontalAlignment="Left" Margin="286,125,0,0" VerticalAlignment="Top" Checked="cbMOBA_Checked"/>
+        <TextBlock HorizontalAlignment="Left" Margin="110,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFFF0404"><Run Language="fi-fi" Text="Syötä kirjann nimi:"/></TextBlock>
+        <RadioButton x:Name="cbScifi" Content="Fantasia" HorizontalAlignment="Left" Margin="286,105,0,0" VerticalAlignment="Top" Checked="cbFantasia_Checked"/>
+        <RadioButton x:Name="cbFantasia" Content="Scifi" HorizontalAlignment="Left" Margin="286,125,0,0" VerticalAlignment="Top" Checked="cbScifi_Checked"/>
         <TextBlock x:Name="tbGenreinfo" HorizontalAlignment="Left" Margin="250,1,0,-28" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" Height="174" Grid.Row="1"/>
         <TextBlock HorizontalAlignment="Left" Margin="286,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Kirjan genre:" Foreground="Red"/>
-        <TextBlock HorizontalAlignment="Left" Margin="31,10,0,0" TextWrapping="Wrap" Text="Peli Lista" VerticalAlignment="Top" Height="26" Width="63"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Peli Lista" VerticalAlignment="Top" Height="26" Width="63"/>
         <Button x:Name="BTN_Pois" Content="Sammuta" Margin="681,8,10,180" Click="Off_Click"/>
 
     </Grid>
